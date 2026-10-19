@@ -1,0 +1,10 @@
+Feature,Importance
+spending_3month_average,0.5110273365639736
+previous_month_spending,0.19190741150587862
+monthly_spending,0.15549307295484455
+monthly_items,0.07027331341980467
+monthly_unique_products,0.03370170971177558
+target_month_number,0.017054109008992843
+monthly_orders,0.009653224733213247
+active_days,0.007436644686411649
+target_year,0.0034531774151053823

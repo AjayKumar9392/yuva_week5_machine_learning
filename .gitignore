@@ -1,0 +1,34 @@
+# Python virtual environment
+
+.venv/
+venv/
+env/
+
+# Dataset files - do not upload large datasets
+
+data/*.csv
+data/*.xlsx
+data/*.xls
+
+# Python cache files
+
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# IDE settings
+
+.vscode/
+
+# Operating system files
+
+.DS_Store
+Thumbs.db
+
+# Temporary files
+
+*.tmp
+*.log

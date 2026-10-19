@@ -1,0 +1,2 @@
+{'regressor__model__n_estimators': 100, 'regressor__model__min_samples_split': 10, 'regressor__model__min_samples_leaf': 2, 'regressor__model__max_features': 0.7, 'regressor__model__max_depth': 8}
+Best cross-validation MAE: 518.8797
